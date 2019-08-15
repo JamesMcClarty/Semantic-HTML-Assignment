@@ -30,7 +30,6 @@ section{
 
 p{
     margin:5px 10px;
-
 }
 
 li{
@@ -45,6 +44,7 @@ h1{
     text-align: center;
     font-size: 200%;
 }
+
 h2{
     color: darkred;
     text-align: center;
