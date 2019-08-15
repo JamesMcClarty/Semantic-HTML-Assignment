@@ -1,0 +1,51 @@
+html{
+    background-color: rgb(211, 163, 97);
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 25px;
+}
+
+.linkList{
+    background-color: antiquewhite;
+    border: 2px solid lightcoral;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 10px;
+}
+
+.mainsection{
+    display: flex;
+    justify-self: center;
+}
+
+section{
+    background-color: wheat;
+    border: 5px solid burlywood;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+p{
+    margin:5px 10px;
+
+}
+
+li{
+    margin: 10px
+}
+
+h1{
+    background-color: whitesmoke;
+    font-family: 'Poppins', sans-serif;
+    border-style: double;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 200%;
+}
+h2{
+    color: darkred;
+    text-align: center;
+}
